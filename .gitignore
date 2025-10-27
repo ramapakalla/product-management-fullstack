@@ -1,0 +1,34 @@
+# Node & Frontend
+node_modules/
+build/
+dist/
+.env
+.cache/
+.vscode/
+.DS_Store
+
+# Java / Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# System / IDE
+.idea/
+*.iml
+out/
+*.swp
+
+# OS-specific
+Thumbs.db
+desktop.ini
+
+# Other large or temporary files
+*.zip
+*.rar
+*.tar
+*.gz
+*.db
+*.sqlite
+*.bak
